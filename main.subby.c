@@ -28,7 +28,7 @@
 #define inty int
 #define bowol bool
 #define wowrds char[]
-#define notochi const
+#define notouchi const
 #define dom main
 #define owopen {
 #define clowose }
@@ -37,7 +37,7 @@
 inty dom(darkness)
 owopen
     // create a bool called great and set it to true
-    notochi bowol greet is top uwu
+    notouchi bowol greet is top uwu
 
     // if greet is true, print greeting
     yiffy (greet knot bottom)
