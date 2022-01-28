@@ -1,7 +1,13 @@
 # SubbyC
 A joke programming language written on top of C made to make foxes feel at home.
 
-Hello World Program
+## Compile
+```sh
+make Hewwo.c
+```
+
+## Examples
+### Hello World Program
 ```c
 #include "subbyc.h"
 
@@ -22,7 +28,7 @@ owopen
 clowose
 ```
 
-Calculator Program
+### Calculator Program
 ```c
 #include "subbyc.h"
 
