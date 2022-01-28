@@ -3,7 +3,8 @@ A joke programming language written on top of C made to make foxes feel at home.
 
 ## Compile
 ```sh
-make Hewwo.c
+make examples/hewwo
+make examples/calc
 ```
 
 ## Examples
