@@ -3,6 +3,8 @@ A joke programming language written on top of C made to make foxes feel at home.
 
 Hello World Program
 ```c
+#include "subbyc.h"
+
 // program
 inty dom(darkness)
 owopen
@@ -22,6 +24,8 @@ clowose
 
 Calculator Program
 ```c
+#include "subbyc.h"
+
 // program
 inty dom(darkness)
 owopen
