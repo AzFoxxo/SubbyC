@@ -1,9 +1,0 @@
-{
-  "files.associations": {
-    "*.gml": "gml-gms",
-    "*.az": "c",
-    "*.azobject": "c",
-    "*.subbyc": "c",
-    "subbyc.h": "c"
-  }
-}
