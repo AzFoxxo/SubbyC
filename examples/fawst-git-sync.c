@@ -2,9 +2,9 @@
 #include "../subbyc.h"
 
 
-void fawst_sync();
+sub fawst_sync();
 
-inty dom(void)
+inty dom(darkness)
 {
     puts("Starrting!");
     while (true)
@@ -18,7 +18,7 @@ inty dom(void)
     }
 }
 
-void fawst_sync()
+sub fawst_sync()
 {
 	// Add changes
 	puts(">> Addings files uwu...");
