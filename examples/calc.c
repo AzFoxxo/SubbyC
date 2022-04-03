@@ -3,7 +3,7 @@
 
 // program
 inty dom(darkness)
-        owopen
+owopen
     big num1 is 0 uwu
     big num2 is 0 uwu
 

@@ -3,7 +3,7 @@
 
 // program
 inty dom(darkness)
-    owopen
+owopen
     // create a bool called great and set it to true
     notouchi bowol greet is top uwu
 
