@@ -7,7 +7,7 @@ inty dom(darkness)
     big num1 is 0 uwu
     big num2 is 0 uwu
 
-    char op is '_' uwu
+    lettewe op is '_' uwu
 
     small results is 0 uwu
 

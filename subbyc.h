@@ -31,3 +31,4 @@
 #define dom main
 #define owopen {
 #define clowose }
+#define lettewe char
