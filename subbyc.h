@@ -32,3 +32,4 @@
 #define owopen {
 #define clowose }
 #define lettewe char
+#define sub void
