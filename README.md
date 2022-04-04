@@ -111,18 +111,18 @@ sub fawst_sync()
 {
 	// Add changes
 	puts(">> Addings files uwu...");
-	cummand("git add .");
+	cumsand("git add .");
 
 	// Commit change
 	puts(">> Commiting arson...");
-	cummand("git commit -m \"Add changes and commit!\"");
+	cumsand("git commit -m \"Add changes and commit!\"");
 
 	// Push changes
 	puts(">> Pushing harder~...");
-	cummand("git push");
+	cumsand("git push");
 
 	// Everything has been synced
 	puts(">> Everything has been synced uwu!");
-	cummand("git status");
+	cumsand("git status");
 }
 ```
