@@ -5,6 +5,7 @@ A joke programming language written on top of C made to make foxes feel at home.
 ```sh
 make examples/hewwo
 make examples/calc
+make examples/fawst-git-sync
 ```
 
 ## Examples
