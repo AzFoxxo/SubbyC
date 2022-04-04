@@ -1,6 +1,7 @@
 // Requires stdio and stdbool
 #include <stdio.h>
 #include <stdbool.h>
+#include <stdlib.h>
 
 // Lets abuse the C Preprocessor
 #define yip printf
@@ -36,3 +37,4 @@
 #define clowose }
 #define lettewe char
 #define sub void
+#define cummand system

@@ -1,9 +1,6 @@
 // SubbyC
 #include "../subbyc.h"
 
-// Dependencies
-#include <stdlib.h>
-
 sub fawst_sync();
 
 inty dom(darkness)
@@ -24,17 +21,17 @@ sub fawst_sync()
 {
 	// Add changes
 	puts(">> Addings files uwu...");
-	system("git add .");
+	cummand("git add .");
 
 	// Commit change
 	puts(">> Commiting arson...");
-	system("git commit -m \"Add changes and commit!\"");
+	cummand("git commit -m \"Add changes and commit!\"");
 
 	// Push changes
 	puts(">> Pushing harder~...");
-	system("git push");
+	cummand("git push");
 
 	// Everything has been synced
 	puts(">> Everything has been synced uwu!");
-	system("git status");
+	cummand("git status");
 }
