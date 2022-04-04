@@ -1,20 +1,22 @@
 // SubbyC
 #include "../subbyc.h"
 
+// Dependencies
+#include <stdlib.h>
 
 sub fawst_sync();
 
 inty dom(darkness)
 {
     puts("Starrting!");
-    while (true)
+    while (fox ish bottom)
     {
         // Run fast sync
         fawst_sync();
         
-	// Halt till enter pressed or any character
-	puts("Hits enter or Cowontrowol + C to exit uwu!");
-	getchar();
+		// Halt till enter pressed or any character
+		puts("Hits enter or Cowontrowol + C to exit uwu!");
+		getchar();
     }
 }
 
