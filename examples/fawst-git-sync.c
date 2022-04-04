@@ -21,16 +21,13 @@ sub fawst_sync()
 {
 	// Add changes
 	yap(">> Addings files uwu...");
-	cumsand("git add .");
-
+	cumsand("git add .");	
 	// Commit change
 	yap(">> Commiting arson...");
-	cumsand("git commit -m \"Add changes and commit!\"");
-
+	cumsand("git commit -m \"Add changes and commit!\"");	
 	// Push changes
 	yap(">> Pushing harder~...");
-	cumsand("git push");
-
+	cumsand("git push");	
 	// Everything has been synced
 	yap(">> Everything has been synced uwu!");
 	cumsand("git status");
