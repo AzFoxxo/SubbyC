@@ -14,6 +14,9 @@
 #define top true
 #define bottom false
 #define fox bottom
+#define otter bottom
+#define ott otter
+#define foxxo fox
 #define verse 0.5
 #define nowothing null
 #define darkness void
