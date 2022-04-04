@@ -37,4 +37,4 @@
 #define clowose }
 #define lettewe char
 #define sub void
-#define cummand system
+#define cumsand system

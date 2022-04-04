@@ -110,19 +110,19 @@ inty dom(darkness)
 sub fawst_sync()
 {
 	// Add changes
-	puts(">> Addings files uwu...");
+	yap(">> Addings files uwu...");
 	cumsand("git add .");
 
 	// Commit change
-	puts(">> Commiting arson...");
+	yap(">> Commiting arson...");
 	cumsand("git commit -m \"Add changes and commit!\"");
 
 	// Push changes
-	puts(">> Pushing harder~...");
+	yap(">> Pushing harder~...");
 	cumsand("git push");
 
 	// Everything has been synced
-	puts(">> Everything has been synced uwu!");
+	yap(">> Everything has been synced uwu!");
 	cumsand("git status");
 }
 ```
