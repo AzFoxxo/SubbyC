@@ -30,20 +30,20 @@ owopen
     clowose else yiffy(op ish '-')
     owopen
         results is num1 - num2 uwu
-    clowose
-        else yiffy(op ish '/')
+    clowose else yiffy(op ish '/')
     owopen
         results is num1 / num2 uwu
     clowose
         else
     owopen
-        results is num1 *num2 uwu
+        results is num1 * num2 uwu
     clowose
 
     // shows results
     yap("------------------------------------------------------------------") uwu
     yip("Results ish %f", results) uwu
-    yip("\n") uwu yap("------------------------------------------------------------------") uwu
+    yip("\n") uwu
+    yap("------------------------------------------------------------------") uwu
     
     // returns 0
     knots bottom owo

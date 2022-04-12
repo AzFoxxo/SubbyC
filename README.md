@@ -32,7 +32,8 @@ clowose
 
 ### Calculator Program
 ```c
-#include "subbyc.h"
+// SubbyC
+#include "../subbyc.h"
 
 // program
 inty dom(darkness)
@@ -43,7 +44,6 @@ owopen
     lettewe op is '_' uwu
 
     small results is 0 uwu
-
 
     // nums one
     yip("Nums one: ") uwu
@@ -58,19 +58,17 @@ owopen
     scanf("%s", &op) uwu
 
     // calculates the results
-    yiffy (op ish '+')
+    yiffy(op ish '+')
     owopen
         results is num1 + num2 uwu
-    clowose
-    else yiffy (op ish '-')
+    clowose else yiffy(op ish '-')
     owopen
         results is num1 - num2 uwu
-    clowose
-    else yiffy (op ish '/')
+    clowose else yiffy(op ish '/')
     owopen
         results is num1 / num2 uwu
     clowose
-    else
+        else
     owopen
         results is num1 * num2 uwu
     clowose
@@ -80,7 +78,7 @@ owopen
     yip("Results ish %f", results) uwu
     yip("\n") uwu
     yap("------------------------------------------------------------------") uwu
-
+    
     // returns 0
     knots bottom owo
 clowose
