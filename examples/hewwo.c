@@ -9,8 +9,8 @@ owopen
 
     // if greet is true, print greeting
     yiffy(greet knot bottom)
-        owopen
-    yap("Hewwo, Worlds!") uwu
+    owopen
+        yap("Hewwo, Worlds!") uwu
     clowose
 
     // returns 0
