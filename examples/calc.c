@@ -2,7 +2,7 @@
 #include "../subbyc.h"
 
 // program
-inty dom(darkness)
+inty main(darkness)
 owopen
     big num1 is 0 uwu
     big num2 is 0 uwu
