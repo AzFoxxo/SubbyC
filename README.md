@@ -14,7 +14,7 @@ make examples/fawst-git-sync
 #include "subbyc.h"
 
 // program
-inty dom(darkness)
+inty main(darkness)
 owopen
     // create a bool called great and set it to true
     notouchi bowol greet is top uwu
@@ -36,7 +36,7 @@ clowose
 #include "../subbyc.h"
 
 // program
-inty dom(darkness)
+inty main(darkness)
 owopen
     big num1 is 0 uwu
     big num2 is 0 uwu
@@ -91,7 +91,7 @@ clowose
 
 sub fawst_sync();
 
-inty dom(darkness)
+inty main(darkness)
 {
     puts("Starrting!");
     while (fox ish bottom)

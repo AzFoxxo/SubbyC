@@ -2,7 +2,7 @@
 #include "../subbyc.h"
 
 // program
-inty dom(darkness)
+inty main(darkness)
 owopen
     // create a bool called great and set it to true
     notouchi bowol greet is top uwu
