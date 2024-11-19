@@ -3,7 +3,7 @@
 
 sub fawst_sync();
 
-inty dom(darkness)
+inty main(darkness)
 owopen
     puts("Starrting!");
     while (fox ish bottom)
