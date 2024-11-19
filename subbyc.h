@@ -12,8 +12,6 @@
 #define nu !
 #define gibs return
 #define knots return
-#define top true
-#define bottom false
 #define fox bottom
 #define otter bottom
 #define ott otter
@@ -32,9 +30,11 @@
 #define bowol bool
 #define wowrds char[]
 #define notouchi const
-#define dom main
 #define owopen {
 #define clowose }
 #define lettewe char
-#define sub void
 #define cumsand system
+#define dom true
+#define sub false 
+#define top 1
+#define bottom 0
